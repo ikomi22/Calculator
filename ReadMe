@@ -1,0 +1,40 @@
+Calculator App
+
+Description
+
+This is a simple calculator web application built using HTML and CSS. It allows users to perform basic mathematical calculations such as addition, subtraction, multiplication, and division. The app provides a user-friendly interface with a display area for input and result output.
+
+Features
+
+Addition: Perform addition calculations by entering numbers and clicking the '+' button.
+Subtraction: Perform subtraction calculations by entering numbers and clicking the '-' button.
+Multiplication: Perform multiplication calculations by entering numbers and clicking the '*' button.
+Division: Perform division calculations by entering numbers and clicking the '/' button.
+Decimal Point: Add a decimal point to the input number by clicking the '.' button.
+Clear: Clear the input display by clicking the 'AC' (All Clear) button.
+Delete: Remove the last entered character from the input display by clicking the 'DE' (Delete) button.
+Result: Get the calculation result by clicking the '=' button.
+Getting Started
+
+To run the calculator app locally, follow these steps:
+
+Clone the repository: git clone https://github.com/ikomi22/calculator-app.git
+Open the project folder: cd calculator-app
+Open the index.html file in your preferred web browser.
+Usage
+
+Enter numbers and operators using the calculator buttons.
+The input display will show the entered values.
+Click the operator buttons to perform calculations.
+The result will be displayed in the input area.
+Use the clear and delete buttons to modify the input.
+Experiment with different calculations and enjoy!
+Technologies Used
+
+HTML
+CSS
+
+Contributing
+
+Contributions to this calculator app are welcome. If you find any bugs or have suggestions for improvement, please submit an issue or create a pull request.
+
